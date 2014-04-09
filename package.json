@@ -1,0 +1,17 @@
+{
+  "name": "ketchup",
+  "version": "0.0.0",
+  "description": "stops a windows service when a rabbit queue reaches a depth",
+  "main": "index.js",
+  "dependencies": {
+    "coffee-script": "1.7.1",
+    "rest": "1.0.3"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "jeremy.sellars@softekinc.com",
+  "license": "eclipse"
+}
